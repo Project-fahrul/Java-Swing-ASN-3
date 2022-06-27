@@ -1,6 +1,6 @@
 # Java-Swing-ASN-3
 
-This project is assestment 3 of Pemrograman Berbasis Objek Course
+This project is assignment 3 of Pemrograman Berbasis Objek Course
 
 ## Tools
 - Netbean IDE (v.13.x.x)
